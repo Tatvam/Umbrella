@@ -1,0 +1,25 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A CLI Application",
+  "main": "app-promise.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "request": "^2.87.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tatvam/Weather-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tatvam/Weather-App/issues"
+  },
+  "homepage": "https://github.com/Tatvam/Weather-App#readme"
+}
